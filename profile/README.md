@@ -8,6 +8,8 @@
   <a href="https://x.com/Noctis_Zone">@Noctis_Zone</a>
   &nbsp;&middot;&nbsp;
   <a href="https://discord.gg/FkFwHFN6Aq">Discord</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://noctiszone.github.io/Noctis/pitch/"><b>Pitch deck</b></a>
 </p>
 
 ---
@@ -33,6 +35,23 @@ promise never to look, but an inability to.
 
 Every one of those is a mechanism rather than a policy. Nobody can switch them off,
 including us.
+
+### Where a token settles
+
+Midnight is the engine, and the settlement chain is a setting &mdash; the private
+phase is the same whichever one a creator picks.
+
+|  |  |
+|---|---|
+| **Cardano Launch** | The public curve, escrow and LP settle on Cardano L1. The first venue built, and where the concept is proven. |
+| **Midnight Launch** | Fully Midnight-native, with Cardano used only to anchor the certificate. In development. |
+| **Solana, XRP** | Announced. Each new chain adds settlement contracts; the private phase does not move. |
+
+### The pitch
+
+**[Read the pitch deck &rarr;](https://noctiszone.github.io/Noctis/pitch/)** &mdash; nine
+slides on why this needs a chain that keeps secrets, what it is for, and what is
+already built.
 
 ### Repositories
 
