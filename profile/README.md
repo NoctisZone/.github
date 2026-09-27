@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NoctisZone/.github/main/profile/banner.png" alt="Noctis Zone" width="100%">
+  <img src="https://raw.githubusercontent.com/NoctisZone/.github/main/profile/banner-ecosystem.png" alt="The Noctis ecosystem: Noctis Zone, the launchpad at noctis.zone; NoctisSwap, the DEX at noctisswap.zone; and Noctis Agentic, for agents only, at noctisagentic.zone" width="100%">
 </p>
 
 <p align="center">
