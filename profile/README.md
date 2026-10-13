@@ -45,9 +45,11 @@ phase is the same whichever one a creator picks.
 
 ### Repositories
 
-| | |
-|---|---|
-| [**Noctis**](https://github.com/NoctisZone/Noctis) | The protocol. Compact contracts for the private phase, Aiken validators for settlement, and the integration layer joining them. Apache-2.0. |
+> [!NOTE]
+> Our repositories are currently private. Noctis Zone, NoctisSwap and Noctis Agentic
+> run at [noctis.zone](https://noctis.zone), [noctisswap.zone](https://noctisswap.zone)
+> and [noctisagentic.zone](https://noctisagentic.zone). Follow
+> [@Noctis_Zone](https://x.com/Noctis_Zone) for updates.
 
 ---
 
