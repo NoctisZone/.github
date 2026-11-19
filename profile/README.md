@@ -26,7 +26,7 @@ promise never to look, but an inability to.
 |  |  |
 |---|---|
 | **If you buy** | Order amounts stay sealed through the private DarkVeil phase, so nothing can trade ahead of an order it cannot read. |
-| **If you launch** | A fair-launch certificate anyone can verify, proving the creator bought nothing and that no wallet breached the cap. Creator fees rise at graduation rather than ending there. |
+| **If you launch** | A fair-launch certificate anyone can verify, proving the creator bought nothing and that no wallet breached the cap. Creator fees continue after graduation rather than ending there. |
 | **If you hold** | Liquidity locks for a year in a contract with **no withdraw function** &mdash; not disabled, absent. After 90 days of creator silence, holders can vote to take the project over, in a ballot that is itself private. |
 
 Every one of those is a mechanism rather than a policy. Nobody can switch them off,
